@@ -1,6 +1,5 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
+{% assign email    = "ramonethomas805@gmail.com" %}
+{% assign username = "git-ramone" %
 {% capture repository %}
     https://{{ username }}.github.io/resume
 {% endcapture %}
@@ -31,6 +30,5 @@
 
 
 ### Contact Information
-* **Email**: [`{{ email }}`](mailto:{{ email }})
-* **Website:** [`{{ repository }}`]({{ repository }})
-* **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
+* **Email**: [`{{ Ramonethomas805@gmail.com }}`](mailto:{{ email }})
+* **Number**: .['{{ 3026697901 }}'](mailto:{{ number}}
