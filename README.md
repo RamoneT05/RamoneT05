@@ -5,12 +5,12 @@
     https://{{ username }}.github.io/resume
 {% endcapture %}
 
-# {{ name }}
+# {{ Ramone Thomas }}
 
 <table>
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
+         <img src="https://github-readme-stats.vercel.app/api?username={{ RamoneT05 }}&show_icons=true&theme=dracula">         
       </td>
       <td>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
@@ -24,8 +24,9 @@
 
 
 ### Education
-* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
+* William penn High school
 * _[Certificate of Completion](./bachelors-degree.pdf)_
+  
 
 
 
